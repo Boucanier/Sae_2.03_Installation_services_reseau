@@ -84,7 +84,7 @@
                 $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
                 $table = 'RESERVATIONS';
-                $stmt = "SELECT DATE, HDEBUT, HFIN, SALLE, MOTIF FROM $table ORDER BY DATE, SALLE, HDEBUT";
+                $stmt = "SELECT DATE, HDEBUT, HFIN, SALLE, MOTIF FROM $table WHERE DATE >= CURDATE() ORDER BY DATE, SALLE, HDEBUT";
 
                 $resultat = $conn->query($stmt);
 
