@@ -30,7 +30,7 @@
                     echo "Salle $salle de $hdebut"."h à $hfin"."h</div>";
 
                     $serveur = 'localhost';
-                    $utilisateur = 'client_s203';
+                    $utilisateur = 'CLIENT_S203';
                     $motdepasse = '2023*Azerty';
                     $base_de_donnees = 'S203';
 

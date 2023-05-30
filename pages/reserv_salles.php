@@ -76,7 +76,7 @@
             <div class="tableau">
             <?php
                 $serveur = 'localhost';
-                $utilisateur = 'client_s203';
+                $utilisateur = 'CLIENT_S203';
                 $motdepasse = '2023*Azerty';
                 $base_de_donnees = 'S203';
 
