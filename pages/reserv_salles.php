@@ -75,7 +75,7 @@
 
             <div class="tableau">
             <?php
-                $serveur = 'localhost';
+                $serveur = '127.0.0.1';
                 $utilisateur = 'CLIENT_S203';
                 $motdepasse = '2023*Azerty';
                 $base_de_donnees = 'S203';
@@ -106,8 +106,7 @@
                         echo "</tr>";
                     }
                 echo "</table>";
-                echo $_POST['date_reserv'];
-            }
+                }
                 
                 $conn = null;
             ?>

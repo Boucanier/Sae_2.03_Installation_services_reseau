@@ -29,7 +29,7 @@
                     echo "Le $date_reserv"."<br>\n";
                     echo "Salle $salle de $hdebut"."h à $hfin"."h</div>";
 
-                    $serveur = 'localhost';
+                    $serveur = '127.0.0.1';
                     $utilisateur = 'CLIENT_S203';
                     $motdepasse = '2023*Azerty';
                     $base_de_donnees = 'S203';
