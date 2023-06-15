@@ -1,6 +1,6 @@
 #! /bin/bash
 
-yum install httpd mysql-server php php-pdo php-gd
+yum install httpd mysql-server php php-pdo php-gd php-mysqlnd
 
 systemctl start mysqld.service
 systemctl start firewalld.service
