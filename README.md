@@ -29,3 +29,10 @@ Le serveur est maintenant installé et fonctionnel. Le dossier des pages est de 
 * Répertoire _images_ contenant les images utilisées dans les pages
 * [Script d'installation](installation.sh) permettant d'installer rapidement le serveur sur une distribution de CentOS
 * [Script SQL de création](creation_s203.sql) permettant de créer la base de données et l'utilisateur utilisés par le serveur
+
+## Crédits
+Projet réalisé par :
+- [Jules CHIRON](https://github.com/Boucanier)
+- [Matis RODIER](https://github.com/matisrod)
+
+Projet réalisé dans le cadre de la SAÉ S2.03 du deuxième semestre de BUT informatique à l'IUT de Vélizy
