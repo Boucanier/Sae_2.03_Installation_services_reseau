@@ -37,6 +37,6 @@ Projet réalisé par :
 
 ---
 
-Projet réalisé dans le cadre de la SAÉ S2.03 du deuxième semestre de BUT informatique à l'IUT de Vélizy
+Projet réalisé dans le cadre de la SAÉ 2.03 du deuxième semestre de BUT informatique à l'IUT de Vélizy
 
 Juin 2023
