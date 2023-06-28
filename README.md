@@ -14,7 +14,7 @@ Le serveur contient deux scripts permettant de réserver une salle de l'IUT (lec
 
 ## Installation du serveur
 
-Pour installer le serveur sur une machine CentOS, téléchargez puis décompressez le dépôt dans le dossier de votre choix __sans le renommer__. Puis, passez en __root__ (_```su - ```_) et exécutez le script _installation.sh_ à l'intérieur du dossier décompressé.
+Pour installer le serveur sur une machine CentOS, téléchargez puis décompressez le dépôt dans le dossier de votre choix __sans le renommer__. Puis, passez en __root__ (_```su - ```_) et exécutez le script [_installation.sh_](installation.sh) à l'intérieur du dossier décompressé.
 Le serveur est maintenant installé et fonctionnel. Le dossier des pages est de base dans le répertoire _/var/www/html/S203_ mais il peut être changé en modifiant la _DocumentRoot_ dans le fichier _httpd.conf_.
 
 ## Contenu
